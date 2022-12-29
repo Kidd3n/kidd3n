@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ruben - Rubelmo <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Ruben - Kidden <img src="./src/wave.gif" width="30px"></h1>
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/89719224/209594277-5d5bcc22-f04c-4eba-911f-f36b5ca03a27.gif" width="400" loop="infinite">
