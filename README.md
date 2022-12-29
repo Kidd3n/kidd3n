@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ruben - Kidden <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Kidden <img src="./src/wave.gif" width="30px"></h1>
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/89719224/209594277-5d5bcc22-f04c-4eba-911f-f36b5ca03a27.gif" width="400" loop="infinite">
@@ -38,8 +38,8 @@
 
 <div>
   <a href="https://github.com/kidd3n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidd3n &show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidd3n &layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidd3n&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidd3n&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ![Snake animation](https://github.com/kidd3n/kidd3n/blob/output/github-contribution-grid-snake.svg)
