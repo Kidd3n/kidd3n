@@ -12,9 +12,9 @@
 
 ### I really like cybersecurity, programming and electronics
 - 🐉 Kali linux user
-- 👨‍💻 Future Hacker 
-- 👾 I like play videogames (Valorant)
-- 🐍/$ I am learning to program in bash and python
+- 👨‍💻 Future Pentester 
+- 👾 I like play videogames 
+- 🐍/$ I learning to program in bash and python
 </details>
 
 <br />
