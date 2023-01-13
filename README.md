@@ -38,8 +38,8 @@
 
 <div>
   <a href="https://github.com/kidd3n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidd3n&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidd3n&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kidd3n&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidd3n&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ![Snake animation](https://github.com/kidd3n/kidd3n/blob/output/github-contribution-grid-snake.svg)
