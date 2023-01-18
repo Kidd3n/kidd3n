@@ -36,5 +36,6 @@
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidd3n)](https://github.com/kidd3n/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidd3n&layout=compact)](https://github.com/kidd3n/github-readme-stats)
+  
 ![Snake animation](https://github.com/kidd3n/kidd3n/blob/output/github-contribution-grid-snake.svg)
