@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kidden (Ruben) <img src="./src/wave.gif" width="30px"></h1>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/89719224/209594277-5d5bcc22-f04c-4eba-911f-f36b5ca03a27.gif" width="400" loop="infinite">
+  <img src="https://user-images.githubusercontent.com/89719224/213831828-ded6c561-1bda-4be9-8a66-28f89f4d6236.gif" width="400" loop="infinite">
 </div>
 
 </td>
@@ -11,10 +11,10 @@
 ## 👋 About me :
 
 ### I really like cybersecurity, programming and electronics
-- 🐉 Kali linux user
 - 👨‍💻 Pentester 
-- 👾 I like play videogames 
 - 🐍/$ I learning to program in bash and python
+- 📷 Ig = ruben.sgg
+
 </details>
 
 <br />
