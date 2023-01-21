@@ -13,7 +13,7 @@
 ### I really like cybersecurity, programming and electronics
 - 👨‍💻 Pentester 
 - 🐍/$ I learning to program in bash and python
-- 📷 Ig = ruben.sgg
+- 📷 Ig = ruben_.sgg
 
 </details>
 
