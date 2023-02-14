@@ -1,20 +1,18 @@
 <h1 align="center">Hi there, I'm Kidden (Ruben) <img src="./src/wave.gif" width="30px"></h1>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/89719224/213831828-ded6c561-1bda-4be9-8a66-28f89f4d6236.gif" width="400" loop="infinite">
+  <img src="https://user-images.githubusercontent.com/89719224/218628776-e3954f10-9f08-40e0-a4d8-9380750af321.gif" width="400" loop="infinite">
 </div>
 
 </td>
 </tr>
 </table>
 
-## 👋 About me :
 
-### I really like cybersecurity, programming and electronics
+### Cybersecurity, programming and electronics
 - 👨‍💻 Pentester 
-- 🐍/$ I learning to program in bash and python
+- 🐍/$ Bash Scripting and Python
 - 📷 Ig = ruben_.sgg
-
 </details>
 
 <br />
