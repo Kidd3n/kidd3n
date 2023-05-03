@@ -9,11 +9,13 @@
 </table>
 
 
+
 ### Cybersecurity, programming and electronics
 - 👨‍💻 Pentester 
-- 🔐 I Practice in Hack the box and VulnHub
 - 🐍/$ Bash Scripting and Python
 - 📷 Ig = kidden.sh
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kidden.png" alt="TryHackMe">
+
 </details>
 
 <br />
