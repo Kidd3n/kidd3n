@@ -14,7 +14,7 @@
 - 👨‍💻 Pentester 
 - 🐍/$ Bash Scripting and Python
 - 📷 Ig = kidden.sh
-
+- 🔓 THM = https://tryhackme.com/p/Kidden
 
 
 </details>
