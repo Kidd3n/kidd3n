@@ -1,10 +1,12 @@
 <h3 align="center">Pentester & Electronic Systems Installation Technician</h3>
 
 
+
 <p align="left">
 <a href="https://instagram.com/kidd3n.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kidd3n.sh" height="30" width="40" /></a>
 
-![tryhackme stats](https://raw.githubusercontent.com/<Kidden>/<Kidden>/master/assets/thm_propic.png)
+ 
+ [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/Kidden)
 
  
 <h3 align="left">Languages and Tools:</h3>
