@@ -4,7 +4,6 @@
 <p align="left">
 <a href="https://instagram.com/kidd3n.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kidd3n.sh" height="30" width="40" /></a>
 
- 
 ![tryhackme stats](https://raw.githubusercontent.com/<Kidden>/<Kidden>/master/assets/thm_propic.png)
 
  
