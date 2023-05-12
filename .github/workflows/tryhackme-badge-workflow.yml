@@ -14,5 +14,5 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           # Replace with your tryhackme username
-          username: "Kidden"
+          username: "<Kidden>"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
