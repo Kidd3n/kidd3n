@@ -1,41 +1,15 @@
-<h1 align="center">Hi there, I'm Kidden (Ruben) <img src="./src/wave.gif" width="30px"></h1>
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/89719224/218628776-e3954f10-9f08-40e0-a4d8-9380750af321.gif" width="400" loop="infinite">
-</div>
-
-</td>
-</tr>
-</table>
+<h3 align="center">Pentester & Electronic Systems Installation Technician</h3>
 
 
-
-### Cybersecurity, programming and electronics
-- 👨‍💻 Pentester 
-- 🐍/$ Bash Scripting and Python
-- 📷 Ig = kidden.sh
-- 🔓 THM = https://tryhackme.com/p/Kidden
-
-
-</details>
-
-<br />
-
----
-
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
-<p align="center">
-     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
-     <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
-     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/> </a>
-     <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/> </a>
-    
+<p align="left">
+<a href="https://instagram.com/kidd3n.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kidd3n.sh" height="30" width="40" /></a>
+ 
+![tryhackme stats](https://raw.githubusercontent.com/Kidden/Kidden/master/assets/thm_propic.png)
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kidd3n&show_icons=true&theme=dark&locale=en" alt="kidd3n" /></p>
 
 ![Snake animation](https://github.com/kidd3n/kidd3n/blob/output/github-contribution-grid-snake.svg)
