@@ -2,8 +2,7 @@
 
 
 
-<p align="left">
-<a href="https://instagram.com/ruben_.sgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruben_.sgg" height="30" width="40" /></a>
+
 
  
  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/Kidden)
