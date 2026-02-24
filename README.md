@@ -5,7 +5,6 @@
 
 
  
- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/Kidden)
 
  https://buymeacoffee.com/kidd3n
 
